@@ -14,6 +14,7 @@ solving neetcode and leetcode questions here
 | ------- |
 | [0001-two-sum](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
 | ------- |
@@ -22,4 +23,9 @@ solving neetcode and leetcode questions here
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
