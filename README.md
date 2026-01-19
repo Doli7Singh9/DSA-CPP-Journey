@@ -7,6 +7,7 @@ solving neetcode and leetcode questions here
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0217-contains-duplicate) |
 | [1929-concatenation-of-array](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -27,5 +28,10 @@ solving neetcode and leetcode questions here
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
