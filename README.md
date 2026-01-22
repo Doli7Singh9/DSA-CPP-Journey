@@ -8,6 +8,7 @@ solving neetcode and leetcode questions here
 | ------- |
 | [0001-two-sum](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0347-top-k-frequent-elements) |
@@ -64,4 +65,8 @@ solving neetcode and leetcode questions here
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
