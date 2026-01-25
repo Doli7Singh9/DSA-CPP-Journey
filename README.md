@@ -13,6 +13,7 @@ solving neetcode and leetcode questions here
 | [0169-majority-element](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0705-design-hashset](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0705-design-hashset) |
 | [1929-concatenation-of-array](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/1929-concatenation-of-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
@@ -24,6 +25,7 @@ solving neetcode and leetcode questions here
 | [0217-contains-duplicate](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0705-design-hashset](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0705-design-hashset) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Simulation
 |  |
@@ -78,4 +80,16 @@ solving neetcode and leetcode questions here
 | [0027-remove-element](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0344-reverse-string) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0705-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
