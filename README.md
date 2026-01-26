@@ -10,6 +10,7 @@ solving neetcode and leetcode questions here
 | [0014-longest-common-prefix](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0347-top-k-frequent-elements) |
@@ -37,6 +38,7 @@ solving neetcode and leetcode questions here
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0242-valid-anagram) |
@@ -80,6 +82,7 @@ solving neetcode and leetcode questions here
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0344-reverse-string) |
 ## Linked List
