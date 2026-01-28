@@ -54,6 +54,7 @@ solving neetcode and leetcode questions here
 | [0125-valid-palindrome](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0680-valid-palindrome-ii) |
 ## Trie
 |  |
 | ------- |
@@ -90,6 +91,7 @@ solving neetcode and leetcode questions here
 | [0088-merge-sorted-array](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0680-valid-palindrome-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -105,4 +107,8 @@ solving neetcode and leetcode questions here
 | ------- |
 | [0705-design-hashset](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0706-design-hashmap) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
