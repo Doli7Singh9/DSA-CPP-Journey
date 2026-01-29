@@ -13,6 +13,7 @@ solving neetcode and leetcode questions here
 | [0049-group-anagrams](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0347-top-k-frequent-elements) |
@@ -111,4 +112,8 @@ solving neetcode and leetcode questions here
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0680-valid-palindrome-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
