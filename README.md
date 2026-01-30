@@ -16,6 +16,7 @@ solving neetcode and leetcode questions here
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0706-design-hashmap) |
@@ -116,4 +117,8 @@ solving neetcode and leetcode questions here
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Doli7Singh9/DSA-CPP-Journey/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
